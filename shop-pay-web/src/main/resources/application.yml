@@ -1,5 +1,5 @@
 server:
-  host: http://localhost
+  host: http://192.168.56.200
   servlet:
     path: /pay-web
   port: 8090
